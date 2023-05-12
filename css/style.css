@@ -62,7 +62,7 @@ nav {
    background-color: red;
 
    /* penulisan 2 background-color seperti ini akan mengabaikan penulisan sebelumnya */
-   background-color: #198754;
+   background-color: #434554;
 
    /* box-shadow membuat efek bayangan */
    box-shadow: 0 3px 7px -2px #000;
@@ -139,7 +139,7 @@ section {
 
 .chat {
    margin-right: 30px;
-   background-color: rgb(8, 69, 8);
+   background-color: rgb(29, 160, 29);
    color: #fff;
    padding-top: 5px;
    padding-right: 15px;
@@ -422,7 +422,7 @@ terkait layout pada CSS untuk dapat memahami secara penuh
 /* FOOTER */
 
 footer {
-   background-color: #198754;
+   background-color: #434554;
    padding-top: 15px;
    padding-bottom: 15px;
    color: #fff;
